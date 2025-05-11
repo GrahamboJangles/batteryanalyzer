@@ -1,0 +1,114 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.notificationfilter"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml
+10
+11    <!-- Battery stats permissions -->
+12    <uses-permission android:name="android.permission.BATTERY_STATS" />
+12-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:7:5-8:47
+12-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:7:22-69
+13    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS" />
+13-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:9:5-10:47
+13-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:9:22-75
+14
+15    <!-- Add queries element for package visibility on Android 11+ -->
+16    <queries>
+16-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:13:5-23:15
+17        <intent>
+17-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:14:9-16:18
+18            <action android:name="android.intent.action.MAIN" />
+18-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:15:13-65
+18-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:15:21-62
+19        </intent>
+20        <intent>
+20-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:17:9-19:18
+21            <action android:name="android.intent.action.VIEW" />
+21-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:18:13-65
+21-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:18:21-62
+22        </intent>
+23        <intent>
+23-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:20:9-22:18
+24            <action android:name="android.intent.action.SEND" />
+24-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:21:13-65
+24-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:21:21-62
+25        </intent>
+26    </queries>
+27
+28    <permission
+28-->[androidx.core:core:1.9.0] C:\Users\Ryzen\.gradle\caches\8.10\transforms\c2b847443e852cc4b3ad3126b4343cb9\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+29        android:name="com.notificationfilter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+29-->[androidx.core:core:1.9.0] C:\Users\Ryzen\.gradle\caches\8.10\transforms\c2b847443e852cc4b3ad3126b4343cb9\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+30        android:protectionLevel="signature" />
+30-->[androidx.core:core:1.9.0] C:\Users\Ryzen\.gradle\caches\8.10\transforms\c2b847443e852cc4b3ad3126b4343cb9\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+31
+32    <uses-permission android:name="com.notificationfilter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+32-->[androidx.core:core:1.9.0] C:\Users\Ryzen\.gradle\caches\8.10\transforms\c2b847443e852cc4b3ad3126b4343cb9\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.9.0] C:\Users\Ryzen\.gradle\caches\8.10\transforms\c2b847443e852cc4b3ad3126b4343cb9\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+33
+34    <application
+34-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:25:5-41:19
+35        android:allowBackup="true"
+35-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:26:9-35
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.9.0] C:\Users\Ryzen\.gradle\caches\8.10\transforms\c2b847443e852cc4b3ad3126b4343cb9\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+37        android:debuggable="true"
+38        android:extractNativeLibs="false"
+39        android:icon="@mipmap/ic_launcher"
+39-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:27:9-43
+40        android:label="@string/app_name"
+40-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:28:9-41
+41        android:roundIcon="@mipmap/ic_launcher_round"
+41-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:29:9-54
+42        android:supportsRtl="true"
+42-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:30:9-35
+43        android:theme="@style/Theme.BatteryAnalyzer" >
+43-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:31:9-53
+44        <activity
+44-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:33:9-40:20
+45            android:name="com.batteryanalyzer.MainActivity"
+45-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:34:13-41
+46            android:exported="true" >
+46-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:35:13-36
+47            <intent-filter>
+47-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:36:13-39:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:15:13-65
+48-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:15:21-62
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:38:17-77
+50-->E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\AndroidManifest.xml:38:27-74
+51            </intent-filter>
+52        </activity>
+53
+54        <provider
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ryzen\.gradle\caches\8.10\transforms\a3918838e6b32794dcd7f55fe9397c9e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+55            android:name="androidx.startup.InitializationProvider"
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ryzen\.gradle\caches\8.10\transforms\a3918838e6b32794dcd7f55fe9397c9e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+56            android:authorities="com.notificationfilter.androidx-startup"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ryzen\.gradle\caches\8.10\transforms\a3918838e6b32794dcd7f55fe9397c9e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+57            android:exported="false" >
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ryzen\.gradle\caches\8.10\transforms\a3918838e6b32794dcd7f55fe9397c9e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+58            <meta-data
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ryzen\.gradle\caches\8.10\transforms\a3918838e6b32794dcd7f55fe9397c9e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ryzen\.gradle\caches\8.10\transforms\a3918838e6b32794dcd7f55fe9397c9e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+60                android:value="androidx.startup" />
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ryzen\.gradle\caches\8.10\transforms\a3918838e6b32794dcd7f55fe9397c9e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+61            <meta-data
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ryzen\.gradle\caches\8.10\transforms\8dc30445c1cd16ea025c00337b878d30\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ryzen\.gradle\caches\8.10\transforms\8dc30445c1cd16ea025c00337b878d30\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+63                android:value="androidx.startup" />
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ryzen\.gradle\caches\8.10\transforms\8dc30445c1cd16ea025c00337b878d30\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+64        </provider>
+65    </application>
+66
+67</manifest>

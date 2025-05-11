@@ -1,0 +1,7 @@
+com.batteryanalyzer.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\Ryzen\.gradle\caches\8.10\transforms\5730f5cf1b28a473d602511d48a5f1bc\transformed\jetified-annotation-experimental-1.3.0\res
+com.batteryanalyzer.test.app-jetified-core-1.5.0-1 C:\Users\Ryzen\.gradle\caches\8.10\transforms\c430efb745103fb9ca8f0f2ec78a9c6e\transformed\jetified-core-1.5.0\res
+com.batteryanalyzer.test.app-androidTest-2 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\generated\res\resValues\androidTest\debug
+com.batteryanalyzer.test.app-androidTest-3 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\generated\res\rs\androidTest\debug
+com.batteryanalyzer.test.app-mergeDebugAndroidTestResources-4 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.batteryanalyzer.test.app-mergeDebugAndroidTestResources-5 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.batteryanalyzer.test.app-merged_res-6 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\intermediates\merged_res\debugAndroidTest

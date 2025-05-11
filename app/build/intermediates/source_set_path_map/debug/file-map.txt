@@ -1,0 +1,32 @@
+com.batteryanalyzer.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-0 C:\Users\Ryzen\.gradle\caches\8.10\transforms\058e6716d253207068f63cfe3373a335\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.batteryanalyzer.app-drawerlayout-1.1.1-1 C:\Users\Ryzen\.gradle\caches\8.10\transforms\1834bb0d66b5ae8ac6c7ca14c58aa550\transformed\drawerlayout-1.1.1\res
+com.batteryanalyzer.app-jetified-emoji2-views-helper-1.2.0-2 C:\Users\Ryzen\.gradle\caches\8.10\transforms\3cdf454dc4e6438b87902e9f3921edad\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.batteryanalyzer.app-constraintlayout-2.1.4-3 C:\Users\Ryzen\.gradle\caches\8.10\transforms\42f36e18689cac860ee1e90a4257a82c\transformed\constraintlayout-2.1.4\res
+com.batteryanalyzer.app-jetified-activity-1.6.0-4 C:\Users\Ryzen\.gradle\caches\8.10\transforms\498522cb139ac5769e8198f3f823bd1f\transformed\jetified-activity-1.6.0\res
+com.batteryanalyzer.app-lifecycle-livedata-core-2.5.1-5 C:\Users\Ryzen\.gradle\caches\8.10\transforms\4ad9411421ef93d77dfd52e050a78610\transformed\lifecycle-livedata-core-2.5.1\res
+com.batteryanalyzer.app-jetified-annotation-experimental-1.3.0-6 C:\Users\Ryzen\.gradle\caches\8.10\transforms\5730f5cf1b28a473d602511d48a5f1bc\transformed\jetified-annotation-experimental-1.3.0\res
+com.batteryanalyzer.app-jetified-appcompat-resources-1.6.1-7 C:\Users\Ryzen\.gradle\caches\8.10\transforms\69fd03ad0dbd776044c00f54d0cebdc5\transformed\jetified-appcompat-resources-1.6.1\res
+com.batteryanalyzer.app-cardview-1.0.0-8 C:\Users\Ryzen\.gradle\caches\8.10\transforms\7364b8a25240d059bcc628cb846fdd45\transformed\cardview-1.0.0\res
+com.batteryanalyzer.app-material-1.8.0-9 C:\Users\Ryzen\.gradle\caches\8.10\transforms\7993b985133eff3ad655868256da300f\transformed\material-1.8.0\res
+com.batteryanalyzer.app-jetified-lifecycle-process-2.4.1-10 C:\Users\Ryzen\.gradle\caches\8.10\transforms\8dc30445c1cd16ea025c00337b878d30\transformed\jetified-lifecycle-process-2.4.1\res
+com.batteryanalyzer.app-jetified-savedstate-1.2.0-11 C:\Users\Ryzen\.gradle\caches\8.10\transforms\9953b371a03d32468c38476cb962c2ff\transformed\jetified-savedstate-1.2.0\res
+com.batteryanalyzer.app-jetified-viewpager2-1.0.0-12 C:\Users\Ryzen\.gradle\caches\8.10\transforms\9e7a50769b19a8ce90c97447b1bf03f0\transformed\jetified-viewpager2-1.0.0\res
+com.batteryanalyzer.app-jetified-emoji2-1.2.0-13 C:\Users\Ryzen\.gradle\caches\8.10\transforms\a3918838e6b32794dcd7f55fe9397c9e\transformed\jetified-emoji2-1.2.0\res
+com.batteryanalyzer.app-jetified-core-ktx-1.9.0-14 C:\Users\Ryzen\.gradle\caches\8.10\transforms\a9664c752d20199bfc97c9baa17ab77d\transformed\jetified-core-ktx-1.9.0\res
+com.batteryanalyzer.app-core-1.9.0-15 C:\Users\Ryzen\.gradle\caches\8.10\transforms\c2b847443e852cc4b3ad3126b4343cb9\transformed\core-1.9.0\res
+com.batteryanalyzer.app-recyclerview-1.1.0-16 C:\Users\Ryzen\.gradle\caches\8.10\transforms\c3bb42d6cbe5556dfbb233695337b4ef\transformed\recyclerview-1.1.0\res
+com.batteryanalyzer.app-jetified-startup-runtime-1.1.1-17 C:\Users\Ryzen\.gradle\caches\8.10\transforms\d2e703d8d9ac19add0c4811a7be9dcb3\transformed\jetified-startup-runtime-1.1.1\res
+com.batteryanalyzer.app-fragment-1.3.6-18 C:\Users\Ryzen\.gradle\caches\8.10\transforms\ded7b8fa56720acf96f0c909b7760848\transformed\fragment-1.3.6\res
+com.batteryanalyzer.app-coordinatorlayout-1.1.0-19 C:\Users\Ryzen\.gradle\caches\8.10\transforms\df166b418e27ca5d7f98da4542e3226c\transformed\coordinatorlayout-1.1.0\res
+com.batteryanalyzer.app-transition-1.2.0-20 C:\Users\Ryzen\.gradle\caches\8.10\transforms\e2914fcdf1d592d8d7c36a0132b6cd1c\transformed\transition-1.2.0\res
+com.batteryanalyzer.app-lifecycle-viewmodel-2.5.1-21 C:\Users\Ryzen\.gradle\caches\8.10\transforms\e5d43d49a1e16fce125c720a1993c3e6\transformed\lifecycle-viewmodel-2.5.1\res
+com.batteryanalyzer.app-lifecycle-runtime-2.5.1-22 C:\Users\Ryzen\.gradle\caches\8.10\transforms\f24658853dbc93127ecde8808c1f5f34\transformed\lifecycle-runtime-2.5.1\res
+com.batteryanalyzer.app-appcompat-1.6.1-23 C:\Users\Ryzen\.gradle\caches\8.10\transforms\f24690ce1b4fb467499d98404fc7e98b\transformed\appcompat-1.6.1\res
+com.batteryanalyzer.app-pngs-24 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\generated\res\pngs\debug
+com.batteryanalyzer.app-resValues-25 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\generated\res\resValues\debug
+com.batteryanalyzer.app-rs-26 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\generated\res\rs\debug
+com.batteryanalyzer.app-mergeDebugResources-27 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.batteryanalyzer.app-mergeDebugResources-28 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.batteryanalyzer.app-merged_res-29 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\intermediates\merged_res\debug
+com.batteryanalyzer.app-debug-30 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\debug\res
+com.batteryanalyzer.app-main-31 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\res

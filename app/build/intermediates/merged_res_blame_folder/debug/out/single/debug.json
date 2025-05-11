@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.batteryanalyzer.app-merged_res-29:/layout_activity_app_selection.xml.flat",
+        "source": "com.batteryanalyzer.app-main-31:/layout/activity_app_selection.xml"
+    },
+    {
+        "merged": "com.batteryanalyzer.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.batteryanalyzer.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.batteryanalyzer.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.batteryanalyzer.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.batteryanalyzer.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.batteryanalyzer.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.batteryanalyzer.app-merged_res-29:/layout_filter_item.xml.flat",
+        "source": "com.batteryanalyzer.app-main-31:/layout/filter_item.xml"
+    },
+    {
+        "merged": "com.batteryanalyzer.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.batteryanalyzer.app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.batteryanalyzer.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.batteryanalyzer.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.batteryanalyzer.app-merged_res-29:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.batteryanalyzer.app-main-31:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.batteryanalyzer.app-merged_res-29:/layout_app_item.xml.flat",
+        "source": "com.batteryanalyzer.app-main-31:/layout/app_item.xml"
+    }
+]

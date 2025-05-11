@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Battery Analyzer</string>
+    <string name="battery_stats_title">Battery Usage by App</string>
+    <string name="request_permission">Request Usage Permission</string>
+    <string name="no_permission">Usage access permission is required to get battery stats</string>
+    <string name="loading">Loading battery data...</string>
+    <string name="no_data">No battery usage data available</string>
+</resources> 
