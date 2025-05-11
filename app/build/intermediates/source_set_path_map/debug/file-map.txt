@@ -22,11 +22,11 @@ com.batteryanalyzer.app-transition-1.2.0-20 C:\Users\Ryzen\.gradle\caches\8.10\t
 com.batteryanalyzer.app-lifecycle-viewmodel-2.5.1-21 C:\Users\Ryzen\.gradle\caches\8.10\transforms\e5d43d49a1e16fce125c720a1993c3e6\transformed\lifecycle-viewmodel-2.5.1\res
 com.batteryanalyzer.app-lifecycle-runtime-2.5.1-22 C:\Users\Ryzen\.gradle\caches\8.10\transforms\f24658853dbc93127ecde8808c1f5f34\transformed\lifecycle-runtime-2.5.1\res
 com.batteryanalyzer.app-appcompat-1.6.1-23 C:\Users\Ryzen\.gradle\caches\8.10\transforms\f24690ce1b4fb467499d98404fc7e98b\transformed\appcompat-1.6.1\res
-com.batteryanalyzer.app-pngs-24 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\generated\res\pngs\debug
-com.batteryanalyzer.app-resValues-25 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\generated\res\resValues\debug
-com.batteryanalyzer.app-rs-26 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\generated\res\rs\debug
-com.batteryanalyzer.app-mergeDebugResources-27 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
-com.batteryanalyzer.app-mergeDebugResources-28 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-com.batteryanalyzer.app-merged_res-29 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\build\intermediates\merged_res\debug
-com.batteryanalyzer.app-debug-30 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\debug\res
-com.batteryanalyzer.app-main-31 E:\Coding_and_Scripting\projects\android_apps\androidapp - Copy\app\src\main\res
+com.batteryanalyzer.app-pngs-24 E:\Coding_and_Scripting\projects\android_apps\batteryanalyzer\app\build\generated\res\pngs\debug
+com.batteryanalyzer.app-resValues-25 E:\Coding_and_Scripting\projects\android_apps\batteryanalyzer\app\build\generated\res\resValues\debug
+com.batteryanalyzer.app-rs-26 E:\Coding_and_Scripting\projects\android_apps\batteryanalyzer\app\build\generated\res\rs\debug
+com.batteryanalyzer.app-mergeDebugResources-27 E:\Coding_and_Scripting\projects\android_apps\batteryanalyzer\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.batteryanalyzer.app-mergeDebugResources-28 E:\Coding_and_Scripting\projects\android_apps\batteryanalyzer\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.batteryanalyzer.app-merged_res-29 E:\Coding_and_Scripting\projects\android_apps\batteryanalyzer\app\build\intermediates\merged_res\debug
+com.batteryanalyzer.app-debug-30 E:\Coding_and_Scripting\projects\android_apps\batteryanalyzer\app\src\debug\res
+com.batteryanalyzer.app-main-31 E:\Coding_and_Scripting\projects\android_apps\batteryanalyzer\app\src\main\res

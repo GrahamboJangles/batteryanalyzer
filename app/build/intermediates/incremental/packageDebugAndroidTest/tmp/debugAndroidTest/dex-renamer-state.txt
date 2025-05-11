@@ -1,7 +1,7 @@
-#Sun May 11 15:43:37 EDT 2025
-base.0=E\:\\Coding_and_Scripting\\projects\\android_apps\\androidapp - Copy\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
-base.1=E\:\\Coding_and_Scripting\\projects\\android_apps\\androidapp - Copy\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
-base.2=E\:\\Coding_and_Scripting\\projects\\android_apps\\androidapp - Copy\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\9\\classes.dex
+#Sun May 11 16:10:50 EDT 2025
+base.0=E\:\\Coding_and_Scripting\\projects\\android_apps\\batteryanalyzer\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=E\:\\Coding_and_Scripting\\projects\\android_apps\\batteryanalyzer\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=E\:\\Coding_and_Scripting\\projects\\android_apps\\batteryanalyzer\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\9\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=9/classes.dex
