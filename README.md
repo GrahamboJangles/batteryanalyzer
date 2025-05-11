@@ -1,5 +1,8 @@
 # Battery Analyzer
 
+![1000033818](https://github.com/user-attachments/assets/fa76dc35-03f2-4a43-b40f-738bdfac0c99)
+
+
 Battery Analyzer is a simple Android application that displays a pie chart showing battery usage by app. The app helps users identify which applications consume the most battery over the longest period possible.
 
 ## Features
